@@ -30,5 +30,4 @@ This project focuses on DOM manipulation, game logic, and basic UI interactions.
 4. If all cells are filled with no winner, the game ends in a draw
 
 ## 📸 Screenshot
-![Tic Tac Toe Screenshot](t.png)
-![Tic Tac Toe Screenshot](tt.png)
+![Tic Tac Toe Screenshot](t.png)![ss](tt.png)
